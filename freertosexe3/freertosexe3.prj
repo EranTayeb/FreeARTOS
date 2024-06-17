@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="freertosexe3" location="C:/Users/reut0/workspace/freertosexe3" platform="C:/Users/reut0/workspace/FREErtos_plat/export/FREErtos_plat/FREErtos_plat.xpfm" platformUID="vendor:kria_kr260:kria_gpio:1.0(custom)" systemProject="freertosexe3_system" sysConfig="FREErtos_plat" runtime="C/C++" cpu="freertos10_xilinx_domain" cpuInstance="psu_cortexr5_0" os="freertos10_xilinx" mssSignature="5a6cd314307e671e2dd1a77b7f38d6cc">
+  <configuration name="Debug" id="xilinx.gnu.arm.r5.exe.debug.1091963545">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.r5.exe.release.522091595" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
